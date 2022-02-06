@@ -49,13 +49,16 @@ bool DepthFirstSearch<T>::search(T target, T source) {
 
     cout << source << endl;
 
+    // check if the current node is the target node
     if(source == target) {
         cout << "target found" << endl;
         return true;
     }
 
+    // mark current node as visited
     visited[source] = true;
-
+    
+    // check each neighbour
     for(T neighbour : nodeMap[source])
         if(!visited[neighbour])
             if(search(target, neighbour))
