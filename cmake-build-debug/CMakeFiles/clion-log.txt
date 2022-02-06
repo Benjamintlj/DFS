@@ -1,0 +1,4 @@
+/private/var/folders/cz/2hdh9_1d1wnc16g532blcf_w0000gn/T/AppTranslocation/DB1EFA2B-684D-4CDD-8D37-6A4E8E71576F/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/private/var/folders/cz/2hdh9_1d1wnc16g532blcf_w0000gn/T/AppTranslocation/DB1EFA2B-684D-4CDD-8D37-6A4E8E71576F/d/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/benjaminlewis-jones/Documents/GitHub/DFS
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/benjaminlewis-jones/Documents/GitHub/DFS/cmake-build-debug
